@@ -40,3 +40,7 @@ let student = {
     "Operating Systems",
   ],
 };
+
+let { name, courses } = student;
+console.log(student.name);
+console.log(student.courses);
