@@ -1,10 +1,4 @@
 
-// let grades = [80, 85, 90];
-// let [first, second] = grades;
-
-// console.log(first);
-// console.log(second);
-
 let originalStudent = {
   name: "Jessica",
   age: 25,

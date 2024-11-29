@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 // let student = {
 //   name: "Jessica",
 //   age: 25,
@@ -44,3 +45,24 @@ let student = {
 let { name, courses } = student;
 console.log(student.name);
 console.log(student.courses);
+=======
+let student = {
+  name: "Jessica",
+  age: 25,
+  enrolled: true,
+  courses: [
+    "Fundamentals of JavaScript",
+    "Database Concepts & Design",
+    "Operating Systems",
+  ],
+  greet: function () {
+    console.log("Hello, my name is " + this.name);
+  },
+};
+>>>>>>> 811dac7c8beaa9db220b255bded27eb8ad89846c
+
+let grades = [80, 85, 90];
+let [first, second] = grades;
+
+console.log(first);
+console.log(second);
