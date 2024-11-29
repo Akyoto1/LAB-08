@@ -66,3 +66,14 @@ let [first, second] = grades;
 
 console.log(first);
 console.log(second);
+
+let originalStudent = {
+  name: "Jessica",
+  age: 25,
+  enrolled: true,
+  courses: [
+    "Fundamentals of JavaScript",
+    "Database Concepts & Design",
+    "Operating Systems",
+  ],
+};
