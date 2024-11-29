@@ -87,3 +87,5 @@ let studentCourses = [
   "Database Concepts & Design",
   "Operating Systems",
 ];
+let newCourses = [
+  "Algorithms and Problem Solving",

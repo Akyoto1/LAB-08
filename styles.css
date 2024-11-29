@@ -1,7 +1,6 @@
 
 
-let newCourses = [
-  "Algorithms and Problem Solving",
+
   "Technical Reading and Writing Skills",
 ];
 let combinedCourses = [...studentCourses, ...newCourses];
