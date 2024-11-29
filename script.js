@@ -77,3 +77,8 @@ let originalStudent = {
     "Operating Systems",
   ],
 };
+
+let student = { originalStudent };
+let clonedStudent = { ...originalStudent, graduationYear: 2027 };
+
+console.log(clonedStudent);
