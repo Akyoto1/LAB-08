@@ -89,3 +89,6 @@ let studentCourses = [
 ];
 let newCourses = [
   "Algorithms and Problem Solving",
+  
+  "Technical Reading and Writing Skills",
+];
