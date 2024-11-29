@@ -29,3 +29,14 @@ let jsonString = '{"name":"Terry","age":19}';
 let jsonObj = JSON.parse(jsonString);
 console.log(jsonObj.name);
 console.log(jsonObj.age);
+
+let student = {
+  name: "Jessica",
+  age: 25,
+  enrolled: true,
+  courses: [
+    "Fundamentals of JavaScript",
+    "Database Concepts & Design",
+    "Operating Systems",
+  ],
+};
