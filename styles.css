@@ -1,5 +1,2 @@
 
 
-
-let combinedCourses = [...studentCourses, ...newCourses];
-console.log(combinedCourses);

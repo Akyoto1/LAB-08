@@ -92,3 +92,6 @@ let newCourses = [
   
   "Technical Reading and Writing Skills",
 ];
+
+let combinedCourses = [...studentCourses, ...newCourses];
+console.log(combinedCourses);
