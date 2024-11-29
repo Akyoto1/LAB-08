@@ -82,3 +82,8 @@ let student = { originalStudent };
 let clonedStudent = { ...originalStudent, graduationYear: 2027 };
 
 console.log(clonedStudent);
+let studentCourses = [
+  "Fundamentals of JavaScript",
+  "Database Concepts & Design",
+  "Operating Systems",
+];
