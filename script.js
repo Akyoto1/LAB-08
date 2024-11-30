@@ -96,15 +96,20 @@
 // let combinedCourses = [...studentCourses, ...newCourses];
 // console.log(combinedCourses);
 
-let student = {
-    name: "Jessica",
-    courses: [
-      "Fundamentals of JavaScript",
-      "Database Concepts & Design",
-      "Operating Systems",
-      addCourses = "Web Programming and Design",
-       this.courses.push("Web Programming and Design"),
-    ]
-student.addCourses("Web Programming and Design"),
- };
-console.log(student.courses);
+// let student = {
+//     name: "Jessica",
+//     courses: [
+//       "Fundamentals of JavaScript",
+//       "Database Concepts & Design",
+//       "Operating Systems",
+//       addCourses = "Web Programming and Design",
+//        this.courses.push("Web Programming and Design"),
+//     ]
+// student.addCourses("Web Programming and Design"),
+//  };
+// console.log(student.courses);
+
+// function sum(80, 90, 78) {
+//     return SVGAnimatedNumberList.reduce((total, num) => total + num, 0);
+// }
+// console.log(sum(80, 90, 78));
