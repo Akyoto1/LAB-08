@@ -97,12 +97,14 @@
 // console.log(combinedCourses);
 
 let student = {
-name: "Jessica",
-courses: ['Fundamentals of JavaScript',
-  'Database Concepts & Design', 'Operating Systems'],
-},
-
-addCourses: [],
-function('Web Programming and Design') {
-this.courses.push
-}
+    name: "Jessica",
+    courses: [
+      "Fundamentals of JavaScript",
+      "Database Concepts & Design",
+      "Operating Systems",
+      addCourses = "Web Programming and Design",
+       this.courses.push("Web Programming and Design"),
+    ]
+student.addCourses("Web Programming and Design"),
+ };
+console.log(student.courses);
